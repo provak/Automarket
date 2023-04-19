@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Car>
+
+
+@foreach(var car in Model)
+{
+    <p>@car.Name</p>
+    <p>@car.Model</p>
+    <p>@car.Description</p>
+    <p>@car.Price</p>
+    <p>@car.DateCreated</p>
+}

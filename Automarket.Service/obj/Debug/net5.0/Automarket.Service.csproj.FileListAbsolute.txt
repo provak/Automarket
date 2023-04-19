@@ -1,0 +1,17 @@
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.Service.deps.json
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.Service.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.Service.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.DAL.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.Domain.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\bin\Debug\net5.0\Automarket.Domain.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.csproj.AssemblyReference.cache
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.AssemblyInfoInputs.cache
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.AssemblyInfo.cs
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.csproj.CoreCompileInputs.cache
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.csproj.CopyComplete
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\refint\Automarket.Service.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\Automarket.Service.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.Service\obj\Debug\net5.0\ref\Automarket.Service.dll

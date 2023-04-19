@@ -1,0 +1,15 @@
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.deps.json
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\bin\Debug\net5.0\Automarket.Domain.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.AssemblyReference.cache
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfoInputs.cache
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfo.cs
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CopyComplete
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\refint\Automarket.DAL.dll
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\User.VYACHESLAV-PC\Desktop\IT Domosed\Automarket\Automarket.DAL\obj\Debug\net5.0\ref\Automarket.DAL.dll

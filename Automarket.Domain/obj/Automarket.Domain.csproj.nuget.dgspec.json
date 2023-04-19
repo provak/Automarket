@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\Skillbox\\HomeWorks\\10\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj": {}
+    "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\IT Domosed\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\Skillbox\\HomeWorks\\10\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj": {
+    "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\IT Domosed\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\Skillbox\\HomeWorks\\10\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\IT Domosed\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
         "projectName": "Automarket.Domain",
-        "projectPath": "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\Skillbox\\HomeWorks\\10\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
+        "projectPath": "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\IT Domosed\\Automarket\\Automarket.Domain\\Automarket.Domain.csproj",
         "packagesPath": "C:\\Users\\User.VYACHESLAV-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\Skillbox\\HomeWorks\\10\\Automarket\\Automarket.Domain\\obj\\",
+        "outputPath": "C:\\Users\\User.VYACHESLAV-PC\\Desktop\\IT Domosed\\Automarket\\Automarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -2,7 +2,7 @@
 
 namespace Automarket.Domain.Enums
 {
-    public enum TypeCar
+    public enum TypeCar : int
     {
         [Display(Name = "Легковой автомобиль")]
         PassengerCar = 0,

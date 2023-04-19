@@ -1,6 +1,12 @@
+using Automarket.DAL;
+using Automarket.DAL.Interfaces;
+using Automarket.DAL.Repositories;
+using Automarket.Service.Interfaces;
+using Automarket.Service.Implementations;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +30,12 @@ namespace Automarket
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            var connection = Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(connection));
+
+            services.AddScoped<ICarRepository, CarRepository>();
+            services.AddScoped<ICarService, CarService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
